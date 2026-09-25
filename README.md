@@ -18,11 +18,7 @@ This repository contains my completed projects for the **CodeAlpha Machine Learn
 
 ---
 
-## 🛠️ Tools & Technologies
-* **Language:** Python
-* **Data Processing:** Pandas, NumPy
-* **Machine Learning:** Scikit-Learn, XGBoost
-* **Visualization:** Matplotlib, Seaborn
+
 
 ---
 
